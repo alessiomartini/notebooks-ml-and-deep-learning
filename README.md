@@ -60,6 +60,6 @@ data-loading cell may need the path adjusting when run locally.
 
 ## Related repository
 
-- [`econophysics-benzaquen-tutorials`](https://github.com/alessiomartini/econophysics-benzaquen-tutorials)
+- [`notebooks-econophysics-benzaquen`](https://github.com/alessiomartini/notebooks-econophysics-benzaquen)
   — the same approach applied to stochastic processes in finance: fractional
   Brownian motion, Ornstein–Uhlenbeck, and multifractality.
