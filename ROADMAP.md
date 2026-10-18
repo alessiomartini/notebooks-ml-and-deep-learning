@@ -9,5 +9,9 @@ ogni titolo "##" è una fase, le checkbox "- [ ]" / "- [x]" danno la percentuale
 ## Fatto
 - [x] Notebook dei tre corsi di machine learning e deep learning
 
+## Idee
+- [ ] Continuare lo studio di machine learning e deep learning
+
 ## Log
+- 2026-10-18: aggiunte le idee da IDEE.md (protocollo unico)
 - 2026-10-15: creata la roadmap per Projects Overview
